@@ -1,0 +1,7 @@
+{
+  "backendBaseURL": "https://empowerher-tst.apps.lab-forge.com/api",
+  "backendServerURL": "https://empowerher-tst.apps.lab-forge.com",
+  "photoAnalyzerBaseURL": "https://photo-analyzer-tst.apps.lab-forge.com",
+  "mealPlanBaseURL": "https://meal-plan-tst.apps.lab-forge.com/v1",
+  "faithContentBaseURL": "https://faith-tst.apps.lab-forge.com"
+}
