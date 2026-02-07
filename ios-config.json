@@ -1,7 +1,8 @@
 {
-  "backendBaseURL": "https://empowerher-tst.apps.lab-forge.com/api",
-  "backendServerURL": "https://empowerher-tst.apps.lab-forge.com",
-  "photoAnalyzerBaseURL": "https://photo-analyzer-tst.apps.lab-forge.com",
-  "mealPlanBaseURL": "https://meal-plan-tst.apps.lab-forge.com/v1",
-  "faithContentBaseURL": "https://faith-tst.apps.lab-forge.com"
+  "backendBaseURL": "https://empowerher.api.stg.goempowerher.com/api",
+  "backendServerURL": "https://empowerher.api.stg.goempowerher.com",
+  "photoAnalyzerBaseURL": "https://photo-analyzer.api.stg.goempowerher.com",
+  "mealPlanBaseURL": "https://meal-plan.api.stg.goempowerher.com/v1",
+  "faithContentBaseURL": "https://faith-content.api.stg.goempowerher.com"
 }
+
