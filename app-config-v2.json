@@ -21,13 +21,13 @@
     "faithContentBaseURL": "https://faith-content.api.goempowerher.com"
   },
   "ios": {
-    "latestVersion": "1.4",
-    "minimumVersion": "1.0",
+    "latestVersion": "1.5",
+    "minimumVersion": "1.2",
     "updateUrl": "https://apps.apple.com/us/app/empowerher/id6754618808"
   },
   "android": {
-    "latestVersion": "1.0.36",
-    "minimumVersion": "1.0.28",
+    "latestVersion": "1.0.37",
+    "minimumVersion": "1.0.34",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.goempowerher"
   }
 }
